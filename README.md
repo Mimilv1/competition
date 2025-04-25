@@ -1,0 +1,2 @@
+# competition
+Preparation to SWERC
